@@ -1,0 +1,3 @@
+camisa,80
+calça,120
+tenis,300
